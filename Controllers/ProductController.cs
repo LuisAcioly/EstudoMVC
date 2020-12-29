@@ -47,7 +47,7 @@ namespace EstudoMVC.Controllers
         // GET: Product/Create
         public IActionResult Create()
         {
-            ViewData["CategoriaID"] = new SelectList(_context.categorias, "id", "id");
+            ViewData["CategoriaID"] = new SelectList(_context.categorias, "id", "description");
             return View();
         }
 
@@ -64,7 +64,7 @@ namespace EstudoMVC.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoriaID"] = new SelectList(_context.categorias, "id", "id", produto.CategoriaID);
+            ViewData["CategoriaID"] = new SelectList(_context.categorias, "id", "description", produto.CategoriaID);
             return View(produto);
         }
 
@@ -81,7 +81,7 @@ namespace EstudoMVC.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoriaID"] = new SelectList(_context.categorias, "id", "id", produto.CategoriaID);
+            ViewData["CategoriaID"] = new SelectList(_context.categorias, "id", "description", produto.CategoriaID);
             return View(produto);
         }
 
@@ -117,7 +117,7 @@ namespace EstudoMVC.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoriaID"] = new SelectList(_context.categorias, "id", "id", produto.CategoriaID);
+            ViewData["CategoriaID"] = new SelectList(_context.categorias, "id", "description", produto.CategoriaID);
             return View(produto);
         }
 
