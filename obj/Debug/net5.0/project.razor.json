@@ -15608,6 +15608,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\luisw\\OneDrive\\Documentos\\Avanade\\ASP NET\\EstudoMVC\\Views\\Product\\Edit.cshtml",
+      "TargetPath": "Views\\Product\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\luisw\\OneDrive\\Documentos\\Avanade\\ASP NET\\EstudoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15643,6 +15648,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\luisw\\OneDrive\\Documentos\\Avanade\\ASP NET\\EstudoMVC\\Views\\Product\\Create.cshtml",
+      "TargetPath": "Views\\Product\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\luisw\\OneDrive\\Documentos\\Avanade\\ASP NET\\EstudoMVC\\Views\\Categoria\\Delete.cshtml",
       "TargetPath": "Views\\Categoria\\Delete.cshtml",
       "FileKind": "mvc"
@@ -15658,8 +15668,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\luisw\\OneDrive\\Documentos\\Avanade\\ASP NET\\EstudoMVC\\Views\\Product\\Index.cshtml",
+      "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\luisw\\OneDrive\\Documentos\\Avanade\\ASP NET\\EstudoMVC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\luisw\\OneDrive\\Documentos\\Avanade\\ASP NET\\EstudoMVC\\Views\\Product\\Delete.cshtml",
+      "TargetPath": "Views\\Product\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\luisw\\OneDrive\\Documentos\\Avanade\\ASP NET\\EstudoMVC\\Views\\Product\\Details.cshtml",
+      "TargetPath": "Views\\Product\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -157,3 +157,8 @@ C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Ra
 C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Razor\Views\Categoria\Details.cshtml.g.cs
 C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Razor\Views\Categoria\Edit.cshtml.g.cs
 C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Razor\Views\Categoria\Index.cshtml.g.cs
+C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\luisw\OneDrive\Documentos\Avanade\ASP NET\EstudoMVC\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
